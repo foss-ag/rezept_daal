@@ -1,6 +1,12 @@
-# 🍛🍛🍛
+# 🍛🍛🍛 
 
-## Zutaten (2-3 Portionen)
+## Serviervorschlag
+![Zuebereitetes Daal in der Geburstagsfeier der FOSS-AG](https://fsinfo.cs.tu-dortmund.de/_media/ags/foss-ag/geburstagsessen.jpg)
+
+_Credit: https://github.com/fes0j/_
+
+## Rezept
+### Zutaten (2-3 Portionen)
 #### Reis
 - 1 Tasse Reis
 - 2 Tassen Wasser
@@ -34,7 +40,7 @@
 - frischer Koriander
 - gerösteter Sesam
 
-## Zubereitung
+### Zubereitung
 #### Reis
 - Reis mit dem Wasser zusammen in einen Topf geben und zum kochen bringen
 - Kocht das Wasser, einmal den Reis umrühren und auf niedriger Hitze für 20 Minuten köcheln lassen und dabei zwischendurch nicht den Deckel abnehmen
