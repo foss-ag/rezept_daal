@@ -14,7 +14,7 @@ _Credit: https://github.com/fes0j/_
 #### Gewürzpaste
 - 1 EL Magarine
 - 1.5 TL Senfsaat
-- 3 grüne Kardamonkapseln
+- 3 grüne Kardamomkapseln
 - 1 TL Kreuzkümmel (gemahlen)
 - 1 TL Kreuzkümmel (ganz)
 - 1 TL Chili
