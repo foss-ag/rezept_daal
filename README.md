@@ -12,7 +12,7 @@ _Credit: https://github.com/fes0j/_
 - 2 Tassen Wasser
 
 #### Gewürzpaste
-- 1 EL Magarine
+- 1 EL Margarine
 - 1.5 TL Senfsaat
 - 3 grüne Kardamonkapseln
 - 1 TL Kreuzkümmel (gemahlen)
