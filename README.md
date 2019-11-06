@@ -48,7 +48,7 @@ _Credit: https://github.com/fes0j/_
 #### Gewürzpaste
 - Die Gewürze in einem Mörser zerkleinern
 - Ingwer, Knoblauch und Zwiebeln zusammen mit dem Sesamöl im Mixer oder mit einem Pürierstab zu einer feinen Paste verarbeiten
-- Die Gewürze unter die Paster rühren
+- Die Gewürze unter die Paste rühren
 - Die Paste für wenige Minuten mit Magarine auf mittlerer Hitze anrösten
 
 #### Linsen
